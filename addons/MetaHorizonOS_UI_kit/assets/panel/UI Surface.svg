@@ -1,0 +1,30 @@
+<svg width="800" height="556" viewBox="0 0 800 556" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_12902)">
+<g clip-path="url(#clip1_1_12902)">
+<path d="M0 24C0 10.7452 10.7452 0 24 0H776C789.255 0 800 10.7452 800 24V532C800 545.255 789.255 556 776 556H24C10.7451 556 0 545.255 0 532V24Z" fill="#1C2B33" style="fill:#1C2B33;fill:color(display-p3 0.1098 0.1686 0.2000);fill-opacity:1;"/>
+<rect width="800" height="556" fill="url(#paint0_radial_1_12902)" style=""/>
+<rect width="800" height="556" fill="url(#paint1_radial_1_12902)" style=""/>
+<rect width="800" height="556" fill="url(#paint2_radial_1_12902)" style=""/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_1_12902" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 2.5253e-05) rotate(125.732) scale(684.935 880.831)">
+<stop stop-color="#25D366" stop-opacity="0.04" style="stop-color:#25D366;stop-color:color(display-p3 0.1451 0.8275 0.4000);stop-opacity:0.04;"/>
+<stop offset="1" stop-color="#25D366" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1_12902" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(54.2678) scale(684.935 956.653)">
+<stop stop-color="#A033FF" stop-opacity="0.08" style="stop-color:#A033FF;stop-color:color(display-p3 0.6275 0.2000 1.0000);stop-opacity:0.08;"/>
+<stop offset="1" stop-color="#A033FF" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/>
+</radialGradient>
+<radialGradient id="paint2_radial_1_12902" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 653.856) rotate(-90) scale(455.92 656)">
+<stop stop-color="#FF6C5C" stop-opacity="0.08" style="stop-color:#FF6C5C;stop-color:color(display-p3 1.0000 0.4235 0.3608);stop-opacity:0.08;"/>
+<stop offset="1" stop-color="#FF6C5C" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/>
+</radialGradient>
+<clipPath id="clip0_1_12902">
+<rect width="800" height="556" rx="5" fill="white" style="fill:white;fill-opacity:1;"/>
+</clipPath>
+<clipPath id="clip1_1_12902">
+<path d="M0 24C0 10.7452 10.7452 0 24 0H776C789.255 0 800 10.7452 800 24V532C800 545.255 789.255 556 776 556H24C10.7451 556 0 545.255 0 532V24Z" fill="white" style="fill:white;fill-opacity:1;"/>
+</clipPath>
+</defs>
+</svg>
